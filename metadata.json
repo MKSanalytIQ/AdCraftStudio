@@ -1,0 +1,6 @@
+{
+  "name": "AdCraft Studio - AI Standard Banner Ads Generator",
+  "description": "Generate studio-grade banner ads in all standard IAB and social sizes from product descriptions and URLs with Gemini 3 Pro and Nano Banana image controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
